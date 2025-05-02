@@ -28,4 +28,5 @@ It includes basic banking features with enhanced UI logic and session control
 - **CSS3**
 - **JavaScript**
 
-Live Link:** https://yousef-440.github.io/Mock-Banking-App/
+
+Live Link: https://yousef-440.github.io/Mock-Banking-App/
